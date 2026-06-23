@@ -2197,5 +2197,3 @@ mp3_44100_128       ← high quality, needs conversion for telephony
 pcm_16000           ← clean PCM, needs ffmpeg → mulaw
 pcm_24000           ← higher quality PCM, same conversion need
 ```
-
-###
