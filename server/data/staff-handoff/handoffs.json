@@ -1,0 +1,33 @@
+[
+  {
+    "id": "HND-204",
+    "customerName": "Priya Nair",
+    "reason": "Allergy clarification",
+    "priority": "high",
+    "assignedTo": "Ananya",
+    "status": "open",
+    "channel": "voice",
+    "createdAt": "2026-06-24T18:53:00.000Z"
+  },
+  {
+    "id": "HND-203",
+    "customerName": "Aarav Sharma",
+    "reason": "Delivery landmark unclear",
+    "priority": "medium",
+    "assignedTo": "Vikram",
+    "status": "open",
+    "channel": "voice",
+    "createdAt": "2026-06-24T18:48:00.000Z"
+  },
+  {
+    "id": "HND-202",
+    "customerName": "Rohan Gupta",
+    "reason": "Coupon request",
+    "priority": "low",
+    "assignedTo": "Isha",
+    "status": "resolved",
+    "channel": "whatsapp",
+    "createdAt": "2026-06-24T18:25:00.000Z"
+  }
+]
+

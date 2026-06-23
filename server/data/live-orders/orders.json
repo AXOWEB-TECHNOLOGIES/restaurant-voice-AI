@@ -1,0 +1,68 @@
+[
+  {
+    "id": "ORD-1012",
+    "customerName": "Priya Nair",
+    "phone": "+91 90000 10112",
+    "channel": "voice",
+    "status": "listening",
+    "total": 517,
+    "items": ["Dum Chicken Biryani", "Gobi Manchurian", "Masala Chaas"],
+    "transcript": "One chicken biryani, one gobi manchurian, and chaas. Please keep it less spicy.",
+    "address": "Indiranagar, Bengaluru",
+    "paymentStatus": "pending",
+    "createdAt": "2026-06-24T18:54:00.000Z"
+  },
+  {
+    "id": "ORD-1011",
+    "customerName": "Aarav Sharma",
+    "phone": "+91 90000 10111",
+    "channel": "voice",
+    "status": "confirming",
+    "total": 347,
+    "items": ["Paneer Butter Masala", "2 Butter Naan"],
+    "transcript": "Haan, ek paneer butter masala aur do butter naan. Spicy medium rakhna.",
+    "address": "Koramangala 5th Block",
+    "paymentStatus": "link_sent",
+    "createdAt": "2026-06-24T18:50:00.000Z"
+  },
+  {
+    "id": "ORD-1010",
+    "customerName": "Meera Iyer",
+    "phone": "+91 90000 10110",
+    "channel": "whatsapp",
+    "status": "sent_to_kitchen",
+    "total": 278,
+    "items": ["Hyderabadi Veg Biryani", "Masala Chaas"],
+    "transcript": "One veg biryani and one chaas. Please send payment link.",
+    "address": "MG Road pickup",
+    "paymentStatus": "paid",
+    "createdAt": "2026-06-24T18:39:00.000Z"
+  },
+  {
+    "id": "ORD-1009",
+    "customerName": "Rohan Gupta",
+    "phone": "+91 90000 10109",
+    "channel": "whatsapp",
+    "status": "sent_to_kitchen",
+    "total": 387,
+    "items": ["Paneer Butter Masala", "Gobi Manchurian"],
+    "transcript": "Paneer butter masala and gobi manchurian for delivery.",
+    "address": "Whitefield",
+    "paymentStatus": "paid",
+    "createdAt": "2026-06-24T18:26:00.000Z"
+  },
+  {
+    "id": "ORD-1008",
+    "customerName": "Kabir Khan",
+    "phone": "+91 90000 10108",
+    "channel": "voice",
+    "status": "paid",
+    "total": 596,
+    "items": ["2 Paneer Butter Masala", "4 Butter Naan"],
+    "transcript": "Family ke liye order hai. Two paneer butter masala and four naan.",
+    "address": "Jayanagar",
+    "paymentStatus": "paid",
+    "createdAt": "2026-06-24T18:15:00.000Z"
+  }
+]
+

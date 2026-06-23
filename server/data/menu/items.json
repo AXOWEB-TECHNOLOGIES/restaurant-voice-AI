@@ -1,0 +1,66 @@
+[
+  {
+    "id": "paneer-butter-masala",
+    "name": "Paneer Butter Masala",
+    "category": "North Indian",
+    "price": 249,
+    "available": true,
+    "prepTimeMins": 18,
+    "popularity": "High"
+  },
+  {
+    "id": "veg-biryani",
+    "name": "Hyderabadi Veg Biryani",
+    "category": "Biryani",
+    "price": 219,
+    "available": true,
+    "prepTimeMins": 16,
+    "popularity": "High"
+  },
+  {
+    "id": "chicken-biryani",
+    "name": "Dum Chicken Biryani",
+    "category": "Biryani",
+    "price": 289,
+    "available": true,
+    "prepTimeMins": 20,
+    "popularity": "High"
+  },
+  {
+    "id": "butter-naan",
+    "name": "Butter Naan",
+    "category": "Breads",
+    "price": 49,
+    "available": true,
+    "prepTimeMins": 6,
+    "popularity": "Medium"
+  },
+  {
+    "id": "gobi-manchurian",
+    "name": "Gobi Manchurian",
+    "category": "Indo-Chinese",
+    "price": 179,
+    "available": true,
+    "prepTimeMins": 14,
+    "popularity": "Medium"
+  },
+  {
+    "id": "masala-chaas",
+    "name": "Masala Chaas",
+    "category": "Beverages",
+    "price": 59,
+    "available": true,
+    "prepTimeMins": 3,
+    "popularity": "Medium"
+  },
+  {
+    "id": "gulab-jamun",
+    "name": "Gulab Jamun",
+    "category": "Desserts",
+    "price": 89,
+    "available": false,
+    "prepTimeMins": 4,
+    "popularity": "Low"
+  }
+]
+

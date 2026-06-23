@@ -20,7 +20,7 @@ A platform that any restaurant (cloud kitchen, takeaway, multi-outlet chain) ins
 
 - **Answer phone calls automatically** with an AI voice agent that takes orders
 - **Accept WhatsApp orders** via text OR voice notes — same AI brain
-- **Understand mixed-language inputs** (e.g. Hinglish: “Bro, ek paneer butter masala family pack”)
+- **Understand mixed-language inputs** (e.g. Hinglish: "Bro, ek paneer butter masala family pack")
 - **Confirm every order verbally** before submission (zero-tolerance for wrong orders)
 - **Send orders to the kitchen/POS** automatically via webhook
 - **Generate UPI/card payment links** via Razorpay, sent on WhatsApp

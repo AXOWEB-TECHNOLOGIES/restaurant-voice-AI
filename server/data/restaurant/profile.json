@@ -1,0 +1,13 @@
+{
+  "id": "rest-demo",
+  "name": "Masala Junction",
+  "phone": "+91 98765 43210",
+  "city": "Bengaluru",
+  "address": "12 Church Street, Bengaluru",
+  "cuisine": "North Indian, Biryani, Indo-Chinese",
+  "hours": "10:30 AM - 11:30 PM",
+  "acceptingOrders": true,
+  "handoffNumber": "+91 99887 76655",
+  "posWebhookUrl": "https://pos.example.com/hooks/masala-junction"
+}
+

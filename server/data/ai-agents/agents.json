@@ -1,0 +1,43 @@
+[
+  {
+    "id": "voice-agent",
+    "name": "Voice order agent",
+    "channel": "voice",
+    "status": "ready",
+    "model": "Mock intent parser",
+    "latencyMs": 1180,
+    "successRate": 92,
+    "lastRun": "2 mins ago"
+  },
+  {
+    "id": "whatsapp-agent",
+    "name": "WhatsApp order agent",
+    "channel": "whatsapp",
+    "status": "ready",
+    "model": "Mock text parser",
+    "latencyMs": 840,
+    "successRate": 95,
+    "lastRun": "5 mins ago"
+  },
+  {
+    "id": "confirmation-agent",
+    "name": "Confirmation agent",
+    "channel": "shared",
+    "status": "training",
+    "model": "Rule-based confirmer",
+    "latencyMs": 620,
+    "successRate": 88,
+    "lastRun": "12 mins ago"
+  },
+  {
+    "id": "payment-agent",
+    "name": "Payment link agent",
+    "channel": "shared",
+    "status": "paused",
+    "model": "Razorpay test mode",
+    "latencyMs": 300,
+    "successRate": 100,
+    "lastRun": "1 hour ago"
+  }
+]
+
